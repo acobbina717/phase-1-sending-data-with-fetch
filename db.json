@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,20 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "John",
+      "dogBreed": "Big",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +33,138 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 20
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 21
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 22
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 23
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 24
+    },
+    {
+      "name": "forgi",
+      "email": "forgididdat@gmail.com",
+      "id": 25
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
